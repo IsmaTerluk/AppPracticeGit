@@ -96,7 +96,7 @@ header p {
     border: none;
     width: 54px;
     border-radius: 12px;
-    cursor: pointer;
+    cursor: cell;
     font-size: 1.2rem;
     transition: transform 0.2s, background 0.3s;
     display: flex;
