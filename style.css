@@ -17,7 +17,11 @@
 }
 
 body {
+<<<<<<< HEAD
     font-family: 'Poppins', sans-serif;
+=======
+    font-family: 'Verdana', sans-serif;
+>>>>>>> rama2
     background: var(--bg-gradient);
     min-height: 100vh;
     display: flex;
